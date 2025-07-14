@@ -16,6 +16,7 @@
 ### 🛠️ Built With:
 - HTML5
 - CSS3
+- js
 - Sass (SCSS)
 - Bootstrap 5
 - Flexbox & CSS Grid
